@@ -2,7 +2,6 @@ package com.jun.tool;
 
 
 import org.springframework.beans.BeanUtils;
-
 import java.beans.BeanInfo;
 import java.beans.IntrospectionException;
 import java.beans.Introspector;
